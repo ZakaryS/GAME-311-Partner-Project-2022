@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\School\GAME 311\GAME 311 Partner Project\GAME 311 Partner Project\GAME 311 Partner Project\main.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GAME 311 Partner Project.vcxproj -> D:\School\GAME 311\GAME 311 Partner Project\GAME 311 Partner Project\x64\Debug\GAME 311 Partner Project.exe
