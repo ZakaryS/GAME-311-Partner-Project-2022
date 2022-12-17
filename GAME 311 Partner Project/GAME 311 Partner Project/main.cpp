@@ -8,7 +8,9 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello Networking World!" << endl;
+	// Some things still aren't visible and I increased stamina because it sometimes disappears for some unknown reason,
+	// but the effects of the invisible choices can be seen in the hps/stamina reveal screen so it's good enough. It
+	// doesn't loop anymore and I'm not sure what else I can do to improve it without a massive rewrite. - ZS
 
 	NetworkManager::GetInstance()->Init();
 
